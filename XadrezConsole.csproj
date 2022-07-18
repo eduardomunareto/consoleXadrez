@@ -44,6 +44,7 @@
     <Compile Include="tabuleiro\TabuleiroException.cs" />
     <Compile Include="tabuleiro\PosicaoXadrez.cs" />
     <Compile Include="xadrez\PartidaDeXadrez.cs" />
+    <Compile Include="HashSet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

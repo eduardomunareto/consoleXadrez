@@ -3,9 +3,9 @@ using XadrezConsole.tabuleiro;
 
 namespace XadrezConsole.xadrez
 {
-    public class Torre : Peca
+    public class Rei : Peca
     {
-        public Torre(Tabuleiro tab, Cor cor) : base(tab, cor)
+        public Rei(Tabuleiro tab, Cor cor) : base(tab, cor)
         {
             
         }
